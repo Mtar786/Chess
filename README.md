@@ -18,6 +18,6 @@ A fully functional, turn-based Chess game built with **HTML**, **CSS**, and **Ja
 - ✅ Visual highlights for selected piece and valid moves
 
 ## 🖼️ Demo
-git clone git@github.com:Mtar786/Chess.git
-cd Chess
-Open index.html in your browser (just double-click or use Live Server).
+  - git clone git@github.com:Mtar786/Chess.git
+  - cd Chess
+  - Open index.html in your browser (just double-click or use Live Server).
